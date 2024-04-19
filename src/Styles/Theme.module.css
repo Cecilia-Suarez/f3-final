@@ -1,0 +1,35 @@
+.light{
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 5, 5)
+}
+
+.dark, 
+.dark nav div h4,
+.dark div a h4,
+.dark nav a h1{
+    background-color: #0e0e11;
+    color: white;
+}
+
+.dark>nav,
+.dark>footer{
+    background-color: #18181b;
+}
+
+.dark>footer{
+    border-top: solid #27272a 1px;
+}
+
+.dark>nav{
+    border-bottom: solid #27272a 1px;
+}
+
+.dark h2, 
+.dark h4 {
+    color: black
+}
+
+.dark form{
+    box-shadow: none;
+}
+
